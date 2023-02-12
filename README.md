@@ -11,7 +11,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <h1> 🌱 I’m currently learning </h1>
+  <h1> 🌱 I have mastery of languages </h1>
   <img align="center" alt="Alexandre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alexandre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alexandre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -26,12 +26,15 @@
   <br></br>
   <br></br>
 
-   <h1> 📫 How to reach me </h1>
+   <h1> 📫 Social media </h1>
 
    <a href = "mailto:ale.oliveira00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/alexandre-novaes-09b454213"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
    <a href="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+   
+   
+   ![Snake animation](https://github.com/alexandr30novaes/alexandr30novaes/blob/output/github-contribution-grid-snake.svg)
                                                   
   
  
