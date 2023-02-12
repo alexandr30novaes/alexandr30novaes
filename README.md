@@ -34,7 +34,7 @@
    <a href="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
    
    
-   ![Snake animation](https://github.com/alexandr30novaes/alexandr30novaes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/alexandr30novaes/alexandr30novaes/blob/output/github-contribution-grid-snake.svg)
                                                   
   
  
