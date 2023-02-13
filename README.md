@@ -1,7 +1,7 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-### Hi there 👋
+### Hello, welcome 👋🖥️
 <hr/>
 
 <div align="center">
@@ -11,7 +11,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <h1> 🌱 I have mastery of languages </h1>
+  <h1> 🌱 Programming language </h1>
   <img align="center" alt="Alexandre-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Alexandre-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Alexandre-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -28,15 +28,23 @@
   
   
   <br></br>
-  <br></br>
-  <br></br>
+  
+  
 
-   <h1> 📫 Social media </h1>
+   <h1> 📬 Social media 📍</h1>
 
-   <a href = "mailto:ale.oliveira00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/alexandre-novaes-09b454213"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href = "mailto:ale.oliveira00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+   </a>
+   <a href="https://www.linkedin.com/in/alexandre-novaes-09b454213"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+   </a>
+   <a href="https://wa.me/5511994917685?text=Ol%C3%A1+Alexandre%21"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+   </a>
+   <a href="https://www.instagram.com/aleee_novaes/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> 
+   </a>
    
    <a href="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+  
+ 
    
    
 ![Snake animation](https://github.com/alexandr30novaes/alexandr30novaes/blob/output/github-contribution-grid-snake.svg)
