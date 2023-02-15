@@ -1,7 +1,8 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-### Hello, welcome 👋🖥️
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A9A9A9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alexandre+Novaes;I'm+22+years+old;I'm+from+Brazil;I+Graduated+Analysis+and+systems+;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <hr/>
 
 <div align="center">
