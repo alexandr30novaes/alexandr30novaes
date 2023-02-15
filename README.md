@@ -12,7 +12,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <h1> 🌱 Programming language </h1>
+  <h1> 🌱 Programming Language </h1>
   <img align="center" alt="Alexandre-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Alexandre-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Alexandre-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -26,13 +26,8 @@
   <img align="center" alt="Alexandre-mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Alexandre-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
   
-  
-  
   <br></br>
-  
-  
-
-   <h1> 📬 Social media 📍</h1>
+   <h1> 📬 Social Media 📍</h1>
 
    <a href = "mailto:ale.oliveira00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
    </a>
@@ -45,14 +40,16 @@
    
    <a href="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
   
- 
-   
-   
-![Snake animation](https://github.com/alexandr30novaes/alexandr30novaes/blob/output/github-contribution-grid-snake.svg)
+ <hr/>
+  
+<h1>📈 Contribution Graph</h1>
                                                   
-  
- 
-  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alexandr30novaes&bg_color=000000&color=878787&line=878787&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    
+![Snake animation](https://github.com/alexandr30novaes/alexandr30novaes/blob/output/github-contribution-grid-snake.svg)
+<br></br>
+<hr/>
+
  
 </div>
   <img align="right" alt="" height="150" style="border-radius:50px;" src="">
