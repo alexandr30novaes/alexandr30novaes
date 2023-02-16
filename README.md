@@ -44,13 +44,15 @@
   
 <h1>📈 Contribution Graph</h1>
                                                   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alexandr30novaes&bg_color=000000&color=878787&line=878787&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alexandr30novaes&bg_color=000000&color=ffffff&line=878787&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
     
 ![Snake animation](https://github.com/alexandr30novaes/alexandr30novaes/blob/output/github-contribution-grid-snake.svg)
 <br></br>
 <hr/>
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{alexandr30novaes}/count.svg" /></p> 
+<br>
+</div>
  
-</div>
-  <img align="right" alt="" height="150" style="border-radius:50px;" src="">
-</div>
