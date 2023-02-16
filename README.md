@@ -12,7 +12,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <h1> 🌱 Programming Language </h1>
+  <h1> 👨‍💻 Programming Language </h1>
   <img align="center" alt="Alexandre-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Alexandre-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Alexandre-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -51,7 +51,7 @@
 <hr/>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+  <br><p align="centre"><b><h1>👇Visitors Count👇</h1></b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{alexandr30novaes}/count.svg" /></p> 
 <br>
 </div>
