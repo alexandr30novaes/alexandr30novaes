@@ -25,6 +25,7 @@
   <img align="center" alt="Alexandre-Nodejs" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Alexandre-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Alexandre-php" height="70 width="70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Alexandre-mongodb" height="70" width="60" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
   <br></br>
   <img align="center" alt="Alexandre-mysql" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Alexandre-mongodb" height="70" width="70" src= "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" />
