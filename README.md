@@ -50,8 +50,8 @@
 <h1>📈 Contribution Graph</h1>
                                                   
 
-  ![Snake animation](https://github.com/alexandr30novaes/alexandr30novaes/blob/output/github-contribution-grid-snake.svg)  
-
+ 
+ ![Snake animation](https://github.com/alexandr30novaes/alexandr30novaes/blob/output/github-contribution-grid-snake.svg) 
 
 <hr/>
 
